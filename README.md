@@ -1,5 +1,7 @@
 # ⏰Часы с подсветкой на JavaScript⏲
 
+Источник: видео "Уроки по JavaScript. Делаем браузерные часы на Джаваскрипт" https://vk.com/im?sel=19460369&z=video-101965347_456257144%2Fa481b93abde3f9ba2c%2Fpl_post_-11899736_41573
+
 ![2024-12-04_11-24-20](https://github.com/user-attachments/assets/7b0f31bd-8edc-4d7c-bb2a-11ef568e33e8)
 
 
